@@ -10,6 +10,7 @@ namespace BIIT12
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello ");
         }
     }
 }
